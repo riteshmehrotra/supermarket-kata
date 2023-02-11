@@ -2,6 +2,8 @@ package com.xperience;
 
 import org.junit.Test;
 
+import com.xperience.Cart;
+
 import static org.junit.Assert.assertEquals;
 
 public class CartTest {
